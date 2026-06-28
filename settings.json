@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "GoonblueSMP.aternos.me",
+    "port": 30248,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,6 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
         "I like to play Minecraft!"
       ]
     },
